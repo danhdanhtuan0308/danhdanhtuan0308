@@ -4,6 +4,6 @@
 - I graduated from KU with a bachelor in Business Analytics and Finance in 2022.
 - Total of 2 years of experience included 1.5 Year experience as a Data Analyst at OPSWAT & 0.5 year experience as a Technical Analyst at Netsmarts Technologies
 ### Contact : 
-- How to reach me: danhdanhtuan0308@gmail.com or www.linkedin.com/in/danhlai0901
+- How to reach me: danhdanhtuan2000@gmail.com  or www.linkedin.com/in/danhlai0901
 
 
