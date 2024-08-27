@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 
 * My name is Daniel Lai, and I am currently pursuing a Master’s in Data Science at Drexel University, with an expected graduation in June 2026 . I am looking for oppotunities in data science field. 
 ### Background :
 - I graduated from KU with a bachelor in Business Analytics and Finance in 2022.
