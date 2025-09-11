@@ -5,7 +5,7 @@
 - Also an IT Support for Drexel University which provide comprehensive technical support to Drexel students,  system configurations, software installations, and reliable access to campus Wi-Fi and LAN, contributing to efficient student experience.
 - Graduated from KU with a bachelor in Business Analytics and Finance in 2022.
 - Over of 3 years of experience :
-  * AI Data Scientist Co-op @ResolutionLife ( Sep 2025 - Mar 2026)
+  * AI Data Scientist Co-op @ResolutionLife ( Sep 2025 - Now )
   * ML Research Assistant ( Nov 2024 - Now ) 
   * Data Scientist Intern @UFG ( June 2025 - Aug 2025 )
   * Data Analyst/Scientist at OPSWAT  ( Jan 2023 - Mar 2024 )  
