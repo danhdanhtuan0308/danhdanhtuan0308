@@ -6,7 +6,7 @@
   * AI Data Scientist Co-op @ResolutionLife ( Sep 2025 - Now )
   * ML Research Assistant ( Nov 2024 - Now ) 
   * Data Scientist Intern @UFG ( June 2025 - Sep 2025 )
-  * Data Analyst/Scientist at OPSWAT  ( Jan 2023 - Mar 2024 )  
+  * Data Analyst/Scientist at OPSWAT  ( Jan 2023 - Apr 2024 )  
   * Technical Analyst at @Netsmarts-Technologies ( May 2022 - Dec 2022 )
 ### Contact : 
 - How to reach me: danhdanhtuan2000@gmail.com  or www.linkedin.com/in/danhlai0901
