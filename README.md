@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm **Daniel Lai**, a **Master’s student in Data Science at Drexel University (Grad: Sep 2026)**.  
-Interested in **Recommendation Systems, MLOps, and Causal Inference**.
+Interested in **Machine Learning, Recommendation Systems and ML/LLM Ops**.
 
 🎓 **Education**
 - MS Data Science — Drexel University  
