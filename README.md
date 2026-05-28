@@ -10,7 +10,7 @@ Interested in **Machine Learning, Recommendation Systems and ML/LLM Ops**.
 💼 **Experience**
 - AI Data Scientist Co-op — ResolutionLife  
 - ML Research Assistant — Drexel University  
-- Data Scientist Intern — UFG  
+- Data Scientist / Machine Learning Engineer Intern — UFG  
 - Data Scientist — OPSWAT  
 - Data Analyst Consultant — Netsmart Technologies  
 
