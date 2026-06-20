@@ -8,7 +8,7 @@ Interested in **Machine Learning, Recommendation Systems and ML/LLM Ops**.
 - BS Data Analytics & Finance — University of Kansas  
 
 💼 **Experience**
-- AI Data Scientist Co-op — ResolutionLife  
+- AI Data Scientist/Engineer Co-op — ResolutionLife  
 - ML Research Assistant — Drexel University  
 - Data Scientist / Machine Learning Engineer Intern — UFG  
 - Data Scientist — OPSWAT  
